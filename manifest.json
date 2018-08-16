@@ -1,0 +1,28 @@
+{
+   "background": {
+      "scripts": [ "core/popup.js" ]
+   },
+   "content_scripts": [ {
+      "css": [ "css/content.css" ],
+      "js": [ "core/script.js", "core/content.js" ],
+      "matches": [ "*://vk.com/*" ]
+   }],
+   "description": "__MSG_desc__",
+   "icons": {
+      "128": "img/128.png",
+      "16": "img/16.png",
+      "32": "img/32.png",
+      "48": "img/48.png"
+   },
+   "default_locale": "en_US",
+   "manifest_version": 2,
+   "name": "__MSG_name__",
+   "short_name": "__MSG_shortname__",
+   "browser_action": {
+      "default_icon": "img/128.png",
+      "default_title": "__MSG_title__"
+   },
+   "permissions": [ "*://vk.com/*", "tabs", "activeTab", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2018.08.15.2"
+}

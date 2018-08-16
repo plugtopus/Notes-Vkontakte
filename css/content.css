@@ -1,0 +1,217 @@
+#new_user_secure_info_box {
+    display: block;
+    position: fixed;
+    width: 400px;
+    height: 180px;
+    left: 40%;
+    right: 40%;
+    top: 50%;
+    margin-top: -150px;
+    z-index: 2147483647;
+    border-radius: 5px;
+    background-color: #5181b8;
+    text-align: center
+}
+#input_note {
+    position: relative;
+    width: 90%;
+    height: 90px;
+    max-width: 370px;
+    max-height: 90px;
+    margin: 20px auto 0;
+    text-align: left;
+    font-size: 14px;
+    color: #000
+}
+
+#new_user_secure_info_panel {
+    position: relative;
+    width: 90%;
+    max-width: 370px;
+    height: 30px;
+    border: #5181b8 solid 1px;
+    margin: 5px auto auto
+}
+
+#save, #cancel {
+    position: relative;
+    float: left;
+    width: 112px;
+    margin: 4px 0 auto 46px;
+    border: #ffffff solid 1px;
+    border-radius: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    color: #ffffff;
+    font-size: 14px;
+    cursor: pointer;
+    font-family: tahoma,arial,verdana,sans-serif,Lucida Sans;
+    font-weight: 400;
+    font-style: normal;
+    font-size-adjust: none;
+    text-transform: none;
+    text-decoration: none;
+    letter-spacing: normal;
+    word-spacing: 0;
+    line-height: 15.3833px;
+    text-align: center;
+    vertical-align: baseline;
+    direction: ltr;
+    text-overflow: clip;
+}
+
+/*****************************************/
+
+#note {
+    position: relative;
+    float: left;
+    width: 80%;
+    max-width: 80%;
+    margin: 10px auto 10px 2%;
+    background-color: #ffffff;
+    border-radius: 4px;
+    text-align: left;
+    font-size:13px;
+    overflow:hidden;
+    color: #000
+}
+
+#delete {
+    position: relative;
+    float: left;
+    width: 15%;
+    margin: 15px auto 15px 2%;
+    text-align: center;
+    font-size:12px;
+    color: #55677d;
+    cursor: pointer
+}
+
+/*****************************************/
+
+#user_secure_info_box {
+    position: relative;
+    width: 99%;
+    padding-left: 3px;
+    padding-right: 3px;
+    margin-top: 10px;
+    background-color: #e5ebf1;
+    font-family: tahoma,arial,verdana,sans-serif,Lucida Sans;
+    font-size: 12px;
+    font-weight: 400;
+    font-style: normal;
+    font-size-adjust: none;
+    color: #2B587A;
+    text-transform: none;
+    text-decoration: none;
+    letter-spacing: normal;
+    word-spacing: 0;
+    line-height: 15.3833px;
+    text-align: left;
+    vertical-align: baseline;
+    direction: ltr;
+    text-overflow: clip;
+}
+
+#user_secure_info_open {
+    position: relative;
+    float: left;
+    width: 70%;
+    margin: 4px 0 0 1%;
+    font-weight: 700;
+    cursor: pointer
+}
+
+#all_notes {
+    position: relative;
+    float: left;
+    width: 26%;
+    margin: 4px 0 0 1%;
+    font-weight: 700;
+    text-align: right;
+    cursor: pointer
+}
+
+#clear {
+    clear: both
+}
+
+#user_secure_info_info {
+    position: relative;
+    width: 100%;
+    margin: 4px auto;
+    border-radius: 4px;
+    border: #ffffff solid 1px;
+    border-left: #2B587A solid 4px;
+    display: none
+}
+
+/*************************************/
+
+#all_users_secure_info_box {
+    position: fixed;
+    width: 270px;
+    height: 100%;
+    left: 0;
+    top:0;
+    z-index: 2147483647;
+    background-color: #e5ebf1;
+    border: #2B587A 1px;
+    text-align: center;
+    overflow:scroll
+}
+
+#count_all_user_secure_info {
+    position:relative;
+    width: 98%;
+    border-bottom: #5181b8 1px;
+    margin: 2px auto 0;
+    text-align: center;
+    font-size: 14px;
+    color: #444444;
+    padding-top: 4px;
+    padding-bottom:4px
+}
+
+#close_all_user_secure_info {
+    position:relative;
+    width: 92%;
+    background-color: #5181b8;
+    border-radius: 4px;
+    margin: 5px auto 12px;
+    text-align: center;
+    font-size: 14px;
+    color: #ffffff;
+    padding-top: 6px;
+    padding-bottom:6px;
+    cursor: pointer
+}
+
+#note_item_box {
+    position:relative;
+    width: 92%;
+    border-radius: 4px;
+    background-color: #ffffff;
+    border: #5181b8 solid 2px;
+    margin: 8px auto 0
+}
+
+#note_item_usrId {
+    position:relative;
+    width: 92%;
+    border-bottom: #5181b8 solid 2px;
+    margin: 5px auto 0;
+    text-align: left;
+    font-size: 12px;
+    color: #999999
+}
+
+#note_item_usrNote {
+    position:relative;
+    width: 98%;
+    margin: 5px 2px 2px 5px;
+    text-align: left;
+    font-size: 14px;
+    color: #000
+}
+

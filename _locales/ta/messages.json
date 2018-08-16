@@ -1,0 +1,41 @@
+﻿{
+   "desc": {
+      "message": "Extension allows you to leave and save a note or comment on any profile of Vkontakte website"
+   },
+   "name": {
+      "message": "Notes Vkontakte"
+   },
+   "shortname": {
+      "message": "Notes Vkontakte"
+   },
+   "title": {
+      "message": "Notes Vkontakte"
+   },
+   "add_note": {
+      "message": "Add a note"
+   },
+   "all_notes": {
+      "message": "All notes"
+   },
+   "delete": {
+      "message": "Delete"
+   },
+   "save": {
+      "message": "Save"
+   },
+   "cancel": {
+      "message": "Cancel"
+   },
+   "input_note_placeholder": {
+      "message": "Enter text here(140 symbols)"
+   },
+   "close_all": {
+      "message": "Close"
+   },
+   "usrId": {
+      "message": "User id"
+   },
+   "notes_count": {
+      "message": "total notes: "
+   }
+}

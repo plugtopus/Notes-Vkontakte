@@ -1,0 +1,41 @@
+﻿{
+   "desc": {
+      "message": "Расширение позволяет оставить заметку или комментарий к любому профилю Вконтакте"
+   },
+   "name": {
+      "message": "Заметки Вконтакте"
+   },
+   "shortname": {
+      "message": "Заметки Вконтакте"
+   },
+   "title": {
+      "message": "Заметки Вконтакте"
+   },
+   "add_note": {
+      "message": "Добавить заметку"
+   },
+   "all_notes": {
+      "message": "Все записи"
+   },
+   "delete": {
+      "message": "Удалить"
+   },
+   "save": {
+      "message": "Cохранить"
+   },
+   "cancel": {
+      "message": "Oтмена"
+   },
+   "input_note_placeholder": {
+      "message": "Введите текст(140 символов)"
+   },
+   "close_all": {
+      "message": "Закрыть"
+   },
+   "usrId": {
+      "message": "пользователь id"
+   },
+   "notes_count": {
+      "message": "всего записей: "
+   }
+}
